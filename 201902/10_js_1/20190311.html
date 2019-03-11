@@ -1,0 +1,76 @@
+<html>
+	<head>
+		<script src="js/script.js"></script>
+		<script>
+			function mytest(val)
+			{
+				alert(val);
+				console.log(val+' '+val);
+			}
+			
+			
+			function calculate()
+			{
+				var a = document.getElementById('a').value;
+				var aa = document.getElementById('aa').value;
+				document.getElementById('b').value =a*aa;
+			}
+		</script>
+		
+		<style>
+			div {
+				border:1px solid #888;
+				margin: 3px;
+			}
+			
+		</style>
+
+	</head>
+	<body>
+		<div onclick="alert('11');console.log('11');">
+			aaa aaa aaa
+		</div>
+		<br>
+		<div  onclick="console.log('22');">
+			bbb bbb bbb
+		</div>
+		
+		
+		
+		<div >
+			<div >
+				<input id ="aa" name='aa' value ='3' >
+				<input id='a' name='a' value='4'>
+				<input id='b' name='b' value=''>
+			</div >
+			<div >
+				<div  class='btn' onclick="calculate();" >
+				calc
+				</div >
+			</div >
+		</div >
+		
+		
+		
+		<br>
+		<div  onclick="alert('333');console.log('333 333');">
+			no function ccc ccc ccc
+		</div>
+		<div  onclick="mytest('333');">
+			function ccc ccc ccc
+		</div>
+		<div  onclick="mytest2('4444');">
+			function2 ccc ccc ccc
+		</div>
+		<div  id="test">
+			class ccc ccc ccc
+		</div>
+		
+			
+		<script>
+			document.getElementById('test').addEventListener("click", mytest3("555"));
+			
+		</script>
+		
+	</body>
+</html>
