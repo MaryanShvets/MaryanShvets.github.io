@@ -1,0 +1,71 @@
+[31-Mar-2018 05:55:24 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 05:55:24 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 05:55:24 America/New_York] PHP Warning:  include(): Failed opening '/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:02 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:02 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:02 America/New_York] PHP Warning:  include(): Failed opening '/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:04 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:04 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:04 America/New_York] PHP Warning:  include(): Failed opening '/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:22 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:22 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:22 America/New_York] PHP Warning:  include(): Failed opening '/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:23 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:23 America/New_York] PHP Warning:  include(/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php): failed to open stream: No such file or directory in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:23 America/New_York] PHP Warning:  include(): Failed opening '/home/kirgkybv/public_html/polza.com/app/affilate/home/index.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/kirgkybv/public_html/polza.com/app/affilate/index.php on line 9
+[31-Mar-2018 06:02:50 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:02:50 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:02:50 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:02:50 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:02:50 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:02:50 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:02:50 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:18 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:03:18 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:03:18 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:18 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:18 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:03:18 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:18 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:19 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:03:19 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:03:19 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:19 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:03:19 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:31 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:03:31 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:03:31 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:31 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:31 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:03:31 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:31 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:38 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:03:38 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:03:38 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:38 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:03:38 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:03:38 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:03:38 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:04:02 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:04:02 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:04:02 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:04:02 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:04:02 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:04:02 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:04:02 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:04:08 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:04:08 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:04:08 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:04:08 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:04:08 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:04:08 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:04:08 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:20:32 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 92
+[31-Mar-2018 06:20:32 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 98
+[31-Mar-2018 06:20:32 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:20:32 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 103
+[31-Mar-2018 06:20:32 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 137
+[31-Mar-2018 06:20:32 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142
+[31-Mar-2018 06:20:32 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/user/signin.php on line 142

@@ -1,0 +1,74 @@
+// Если ты это читаешь, значит у тебя стоит задача разобраться polza.app
+// внизу карта всех микро-сервисов, которые отвечают за роботу системы
+// в каждом файле есть комментарии, которые объяснят тебе что и как работает
+// код, который здесь написан в основном написан с целью разделения зон, в которых что-то может пойти не так
+// а поверь мне – все всегда идет не так :)
+
+{
+	"url":"http://polza.com/app/api/",
+	"api":{
+		"payment/walletone/callback.php":{
+			"GETs": {
+		     	"id": "Номер счета"
+		    }
+		},
+		"activecampaigh/control/get_webhook.php":{
+			"POST": {
+				"contact->phone": "Номер телефона контакта"
+		    },
+		    "GET": {
+				"sms": "Номер СМС для отправки"
+		    }
+		},
+		"activecampaigh/control/update_contact.php":{
+			"GET": {
+				"email":"Емейл контакта",
+				"list":"Список, в который додаем",
+				"name":"Имя контакта",
+				"phone":"Номер телефон"
+		    }
+		},
+		"amocrm/control/add_lead.php":{
+		    "GET": {
+				"sms": "Номер СМС для отправки",
+				"name":"Имя контакта",
+				"phone":"Телефон контакта",
+				"email":"Емейл контакта",
+				"lead":"Название сделки",
+				"tags":"Теги сделки",
+				"budget":"Бюджет сделки",
+				"utm":"UTM метки сделки"
+		    }
+		},
+		"amocrm/control/get_webhook.php":{
+		    "POST": {
+				"id":"Номер сделки",
+				"name":"Название сделки",
+				"price":"Бюджет сделки",
+				"status_id":"Номер статуса",
+				"responsible_user_id":"Номер менеджера"
+		    }
+		},
+		"events/control/auto_paid.php":{},
+		"events/control/crm_paid.php":{},
+		"events/control/invoice_paid.php":{},
+		"events/control/send_sms":{},
+		"google/control/get_leads":{},
+		"payment/fondy/control/pay.php":{},
+		"payment/fondy/control/invoice.php":{},
+		"payment/fondy/control/callback.php":{},
+		"payment/walletone/control/pay.php":{},
+		"payment/walletone/control/invoice.php":{},
+		"payment/walletone/control/callback.php":{},
+		"payment/yandex-money/control/callback.php":{},
+		"payment/yandex-money/control/invoice.php":{},
+		"privatbank/control/get_balance.php":{},
+		"privatbank/control/get_payments.php":{},
+		"submits/new.php":{},
+		"telegram/control/send_message.php":{},
+	}
+}
+
+
+
+

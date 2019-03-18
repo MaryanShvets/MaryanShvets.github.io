@@ -1,0 +1,549 @@
+[15-Feb-2017 05:43:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:43:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:43:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:43:54 America/New_York] PHP Notice:  Undefined index: price in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[15-Feb-2017 05:43:54 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[15-Feb-2017 05:43:54 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 18
+[15-Feb-2017 05:45:47 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:45:47 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:45:47 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:45:47 America/New_York] PHP Notice:  Undefined index: price in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[15-Feb-2017 05:45:47 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[15-Feb-2017 05:45:47 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 18
+[15-Feb-2017 05:46:07 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:46:07 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:46:07 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:46:07 America/New_York] PHP Notice:  Undefined index: price in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[15-Feb-2017 05:46:07 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[15-Feb-2017 05:46:07 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 18
+[15-Feb-2017 05:46:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:46:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:46:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:46:14 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[15-Feb-2017 05:46:14 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 18
+[15-Feb-2017 05:46:23 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:46:23 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:46:23 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:46:25 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:46:25 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:46:25 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:47:03 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:47:03 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:47:03 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:47:09 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:47:09 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:47:09 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:47:21 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:47:21 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:47:21 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:47:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:47:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:47:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:47:56 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:47:56 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:47:56 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:48:19 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:48:19 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:48:19 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:56:03 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 86
+[15-Feb-2017 05:56:09 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 86
+[15-Feb-2017 05:56:11 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 86
+[15-Feb-2017 05:58:00 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:58:00 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:58:00 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 05:58:04 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 05:58:04 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 05:58:04 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:00:05 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:00:05 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:00:05 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:02:31 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:02:31 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:02:31 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:02:51 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:02:51 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:02:51 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:04:02 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:04:02 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:04:02 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:17:02 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:17:02 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:17:02 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:17:24 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:17:24 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:17:24 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:19:15 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:19:15 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:19:15 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:20:24 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:20:24 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:20:24 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:20:39 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:20:39 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:20:39 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:22:30 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:22:30 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:22:30 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:22:32 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:22:32 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:22:32 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:22:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:22:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:22:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:22:45 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:22:45 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:22:45 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:23:03 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:23:03 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:23:03 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[15-Feb-2017 06:28:55 America/New_York] PHP Notice:  Undefined variable: content in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 102
+[15-Feb-2017 06:29:11 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[15-Feb-2017 06:29:11 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[15-Feb-2017 06:29:11 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[16-Feb-2017 04:54:53 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[16-Feb-2017 04:54:53 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[16-Feb-2017 04:54:53 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[16-Feb-2017 04:55:30 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[16-Feb-2017 04:55:30 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[16-Feb-2017 04:55:30 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[16-Feb-2017 04:55:32 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 90
+[16-Feb-2017 04:55:42 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[16-Feb-2017 04:55:42 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[16-Feb-2017 04:55:42 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[16-Feb-2017 04:55:43 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 90
+[16-Feb-2017 04:55:58 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[16-Feb-2017 04:55:58 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[16-Feb-2017 04:55:58 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[16-Feb-2017 05:41:01 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[16-Feb-2017 05:41:01 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[16-Feb-2017 05:41:01 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[16-Feb-2017 05:41:02 America/New_York] PHP Notice:  Undefined variable: api in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 97
+[16-Feb-2017 05:41:02 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 97
+[16-Feb-2017 05:41:06 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 9
+[16-Feb-2017 05:41:06 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 10
+[16-Feb-2017 05:41:06 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 11
+[16-Feb-2017 05:41:07 America/New_York] PHP Notice:  Undefined variable: api in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 97
+[16-Feb-2017 05:41:07 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 97
+[16-Feb-2017 05:41:23 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[16-Feb-2017 05:41:23 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[16-Feb-2017 05:41:23 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[16-Feb-2017 05:41:24 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[16-Feb-2017 05:41:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[16-Feb-2017 05:41:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[16-Feb-2017 05:41:24 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 116
+[16-Feb-2017 05:41:24 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[16-Feb-2017 05:41:53 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[16-Feb-2017 05:41:53 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[16-Feb-2017 05:41:53 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[16-Feb-2017 05:41:54 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[16-Feb-2017 05:41:54 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[16-Feb-2017 05:41:54 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[16-Feb-2017 05:41:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 116
+[16-Feb-2017 05:41:54 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 04:56:58 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[21-Feb-2017 04:56:58 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[21-Feb-2017 04:56:58 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 04:56:58 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 20
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 20
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 94
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:00 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 116
+[21-Feb-2017 04:57:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 04:57:01 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 94
+[21-Feb-2017 04:57:01 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:01 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:01 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:01 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 116
+[21-Feb-2017 04:57:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 04:57:07 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[21-Feb-2017 04:57:07 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[21-Feb-2017 04:57:07 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 04:57:07 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 20
+[21-Feb-2017 04:57:08 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 94
+[21-Feb-2017 04:57:08 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:08 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 116
+[21-Feb-2017 04:57:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 04:57:10 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[21-Feb-2017 04:57:10 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[21-Feb-2017 04:57:10 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 04:57:10 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 20
+[21-Feb-2017 04:57:11 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 94
+[21-Feb-2017 04:57:11 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:57:11 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 116
+[21-Feb-2017 04:57:11 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 04:57:59 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[21-Feb-2017 04:57:59 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[21-Feb-2017 04:57:59 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 04:57:59 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 20
+[21-Feb-2017 04:58:01 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 94
+[21-Feb-2017 04:58:01 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:58:01 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:58:01 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:58:01 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 116
+[21-Feb-2017 04:58:22 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 94
+[21-Feb-2017 04:58:22 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:58:22 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:58:22 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 113
+[21-Feb-2017 04:59:16 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 125
+[21-Feb-2017 04:59:16 America/New_York] PHP Notice:  Undefined variable: redirect in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 130
+[21-Feb-2017 04:59:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php:93) in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 130
+[21-Feb-2017 05:01:05 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 127
+[21-Feb-2017 05:01:05 America/New_York] PHP Notice:  Undefined variable: redirect in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 132
+[21-Feb-2017 05:01:15 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 127
+[21-Feb-2017 05:01:15 America/New_York] PHP Notice:  Undefined variable: redirect in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 132
+[21-Feb-2017 05:01:23 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 127
+[21-Feb-2017 05:01:36 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:01:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:01:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:04:27 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 26
+[21-Feb-2017 05:04:28 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 26
+[21-Feb-2017 05:04:30 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 26
+[21-Feb-2017 05:04:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:04:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:04:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:04:54 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:04:56 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:04:56 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 119
+[21-Feb-2017 05:04:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 119
+[21-Feb-2017 05:04:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 119
+[21-Feb-2017 05:04:56 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:04:56 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:06:34 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:06:35 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:06:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:06:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 05:06:35 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:06:35 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:06:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:06:54 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:06:55 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:06:55 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:06:55 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:06:55 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:07:06 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:07:06 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:07:06 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:07:06 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:07:07 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:07:07 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:07:42 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:07:42 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:07:42 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:07:42 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:07:43 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:07:43 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:08:33 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:08:33 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 16
+[21-Feb-2017 05:08:33 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 17
+[21-Feb-2017 05:08:33 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[21-Feb-2017 05:08:34 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 100
+[21-Feb-2017 05:08:34 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 122
+[21-Feb-2017 05:09:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[21-Feb-2017 05:09:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[21-Feb-2017 05:09:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:09:14 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 22
+[21-Feb-2017 05:09:15 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 98
+[21-Feb-2017 05:09:15 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:09:15 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:09:15 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:09:15 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 120
+[21-Feb-2017 05:09:46 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 13
+[21-Feb-2017 05:09:46 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 14
+[21-Feb-2017 05:09:46 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 15
+[21-Feb-2017 05:09:46 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 22
+[21-Feb-2017 05:09:47 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 98
+[21-Feb-2017 05:09:47 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:09:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:09:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:09:47 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 120
+[21-Feb-2017 05:10:09 America/New_York] PHP Notice:  Undefined variable: output in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:10:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[21-Feb-2017 05:10:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 117
+[22-Feb-2017 06:20:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 18
+[22-Feb-2017 06:20:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 19
+[22-Feb-2017 06:20:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 20
+[22-Feb-2017 06:20:14 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 21
+[22-Feb-2017 06:20:14 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 28
+[22-Feb-2017 06:20:16 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 95
+[22-Feb-2017 06:20:16 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 104
+[22-Feb-2017 06:20:16 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 110
+[22-Feb-2017 06:20:16 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/Invoice.php on line 111
+[22-Feb-2017 06:20:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[22-Feb-2017 06:20:57 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 18
+[22-Feb-2017 06:20:57 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 19
+[22-Feb-2017 06:20:57 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 20
+[22-Feb-2017 06:20:57 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 21
+[22-Feb-2017 06:20:57 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 28
+[22-Feb-2017 06:20:59 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 95
+[22-Feb-2017 06:20:59 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 104
+[22-Feb-2017 06:20:59 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 110
+[22-Feb-2017 06:20:59 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 111
+[22-Feb-2017 06:20:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[22-Feb-2017 06:21:18 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 18
+[22-Feb-2017 06:21:18 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 19
+[22-Feb-2017 06:21:18 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 20
+[22-Feb-2017 06:21:18 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 21
+[22-Feb-2017 06:21:18 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 28
+[22-Feb-2017 06:22:17 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 112
+[22-Feb-2017 06:22:17 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 113
+[22-Feb-2017 06:22:17 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[22-Feb-2017 07:42:31 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 112
+[22-Feb-2017 07:42:31 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 113
+[22-Feb-2017 07:42:31 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[23-Feb-2017 05:26:47 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 112
+[23-Feb-2017 05:26:47 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 113
+[23-Feb-2017 05:26:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[23-Feb-2017 05:27:15 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 112
+[23-Feb-2017 05:27:15 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 113
+[23-Feb-2017 05:27:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[23-Feb-2017 05:29:50 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 112
+[23-Feb-2017 05:29:50 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 113
+[23-Feb-2017 05:29:50 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[23-Feb-2017 05:32:35 America/New_York] PHP Notice:  Undefined index: order in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 112
+[23-Feb-2017 05:32:35 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 113
+[23-Feb-2017 05:32:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[23-Feb-2017 05:34:52 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 113
+[23-Feb-2017 05:34:52 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 37
+[23-Feb-2017 09:10:54 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 32
+[23-Feb-2017 09:10:55 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 86
+[23-Feb-2017 09:10:55 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[23-Feb-2017 09:10:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[24-Feb-2017 04:29:10 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[24-Feb-2017 04:29:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[24-Feb-2017 04:46:11 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[24-Feb-2017 04:46:11 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[27-Feb-2017 05:25:00 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[27-Feb-2017 05:25:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[27-Feb-2017 05:27:40 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[27-Feb-2017 05:27:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[27-Feb-2017 05:29:34 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[27-Feb-2017 05:29:34 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[27-Feb-2017 05:34:35 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[27-Feb-2017 05:34:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[27-Feb-2017 05:41:16 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[27-Feb-2017 05:41:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[27-Feb-2017 05:43:00 America/New_York] PHP Notice:  Undefined index:  WMI_PAYMENT_NO  in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 65
+[27-Feb-2017 12:45:12 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[27-Feb-2017 12:45:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 03:24:43 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[28-Feb-2017 03:24:43 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 03:31:02 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[28-Feb-2017 03:31:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 03:41:50 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 32
+[28-Feb-2017 03:41:51 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 86
+[28-Feb-2017 03:41:51 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[28-Feb-2017 03:41:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Mar-2017 09:24:41 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[01-Mar-2017 09:24:41 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Mar-2017 10:51:13 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[01-Mar-2017 10:51:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:19:12 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[02-Mar-2017 10:19:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:19:59 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[02-Mar-2017 10:19:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:28:22 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[02-Mar-2017 10:28:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:32:25 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[02-Mar-2017 10:32:25 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 15:42:43 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[02-Mar-2017 15:42:43 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 15:43:00 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 100
+[02-Mar-2017 15:43:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[06-Mar-2017 05:39:29 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 24
+[06-Mar-2017 05:39:29 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 25
+[06-Mar-2017 05:39:29 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 26
+[06-Mar-2017 05:39:29 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 27
+[06-Mar-2017 05:39:29 America/New_York] PHP Notice:  Undefined variable: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 32
+[06-Mar-2017 05:39:30 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 87
+[06-Mar-2017 05:39:30 America/New_York] PHP Notice:  Undefined index: currency in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/pay.php on line 105
+[06-Mar-2017 05:39:30 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[06-Mar-2017 05:39:39 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[06-Mar-2017 13:16:23 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[06-Mar-2017 13:16:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[06-Mar-2017 13:25:45 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[06-Mar-2017 13:25:45 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[09-Mar-2017 09:53:53 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[09-Mar-2017 09:53:53 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[09-Mar-2017 09:54:29 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[09-Mar-2017 09:54:29 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[09-Mar-2017 09:56:00 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[09-Mar-2017 09:56:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[15-Mar-2017 12:02:57 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[15-Mar-2017 12:02:57 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[15-Mar-2017 12:06:58 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[15-Mar-2017 12:06:58 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[15-Mar-2017 12:13:52 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[15-Mar-2017 12:13:52 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[15-Mar-2017 12:17:26 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[15-Mar-2017 12:17:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[15-Mar-2017 12:26:05 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[15-Mar-2017 12:26:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:48:02 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Mar-2017 06:48:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:48:27 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Mar-2017 06:48:27 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:49:05 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Mar-2017 06:49:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:49:06 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Mar-2017 06:49:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:49:11 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Mar-2017 06:49:11 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:49:41 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Mar-2017 06:49:41 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:54:22 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Mar-2017 06:54:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Mar-2017 06:57:01 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[23-Mar-2017 06:57:01 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[31-Mar-2017 05:30:15 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[31-Mar-2017 05:30:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[04-Apr-2017 12:51:42 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[04-Apr-2017 12:51:42 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[13-Apr-2017 04:30:27 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[13-Apr-2017 04:30:27 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[13-Apr-2017 04:34:38 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[13-Apr-2017 04:34:38 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[28-Apr-2017 09:30:18 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[28-Apr-2017 09:30:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Apr-2017 09:31:27 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[28-Apr-2017 09:31:27 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[03-May-2017 08:15:58 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[03-May-2017 08:15:58 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[04-May-2017 09:40:27 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[04-May-2017 09:40:27 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[04-May-2017 09:41:43 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[04-May-2017 09:41:43 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[05-May-2017 03:13:18 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[05-May-2017 03:13:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[05-May-2017 05:31:07 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[05-May-2017 05:31:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[09-Jun-2017 05:40:44 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[09-Jun-2017 05:40:44 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Jun-2017 16:19:03 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[28-Jun-2017 16:19:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Aug-2017 08:35:15 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[01-Aug-2017 08:35:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Aug-2017 08:35:15 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[01-Aug-2017 08:35:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Aug-2017 08:35:16 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[01-Aug-2017 08:35:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[08-Aug-2017 05:40:26 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[08-Aug-2017 05:40:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[08-Aug-2017 05:40:51 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[08-Aug-2017 05:40:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[08-Aug-2017 05:40:51 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[08-Aug-2017 05:40:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[08-Aug-2017 05:40:51 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[08-Aug-2017 05:40:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[08-Aug-2017 08:13:41 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[08-Aug-2017 08:13:41 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[08-Aug-2017 08:19:46 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[08-Aug-2017 08:19:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[09-Aug-2017 05:50:45 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[09-Aug-2017 05:50:45 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[11-Aug-2017 02:35:22 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 02:35:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 02:35:23 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 02:35:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 02:36:29 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 02:36:29 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 02:36:29 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 02:36:29 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 02:36:46 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 02:36:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 02:38:36 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 02:38:36 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 02:44:14 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[11-Aug-2017 02:44:14 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[11-Aug-2017 06:10:36 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 06:10:36 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 08:00:32 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 08:00:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 08:07:01 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[11-Aug-2017 08:07:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[11-Aug-2017 08:11:18 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[11-Aug-2017 08:11:18 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[22-Aug-2017 10:05:45 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[22-Aug-2017 10:05:45 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[22-Aug-2017 11:30:32 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[22-Aug-2017 11:30:32 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[23-Aug-2017 09:05:39 America/New_York] PHP Notice:  Undefined index: WMI_PAYMENT_NO in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 14
+[23-Aug-2017 09:05:39 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[23-Aug-2017 09:05:39 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[23-Aug-2017 09:10:19 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Aug-2017 09:10:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Aug-2017 09:10:55 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Aug-2017 09:10:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Aug-2017 09:14:56 America/New_York] PHP Notice:  Undefined variable: url in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 19
+[23-Aug-2017 09:14:56 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[23-Aug-2017 09:18:25 America/New_York] PHP Notice:  Undefined variable: comment_text in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/invoice.php on line 102
+[23-Aug-2017 09:18:25 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Aug-2017 09:29:48 America/New_York] PHP Notice:  Undefined index: WMI_PAYMENT_NO in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 14
+[23-Aug-2017 09:29:48 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kirgkybv/public_html/polza.com/app/api/payment/walletone/control/callback.php on line 21
+[23-Aug-2017 09:29:49 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Aug-2017 10:14:25 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Aug-2017 10:16:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Aug-2017 10:16:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[24-Aug-2017 04:56:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[24-Aug-2017 04:56:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[30-Aug-2017 04:11:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[30-Aug-2017 04:42:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[30-Aug-2017 04:51:48 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[15-Sep-2017 10:12:11 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[20-Sep-2017 02:49:36 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[20-Sep-2017 02:57:42 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[21-Sep-2017 12:18:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[21-Sep-2017 13:41:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[21-Sep-2017 13:43:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[21-Sep-2017 13:44:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[21-Sep-2017 15:01:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[21-Sep-2017 15:04:27 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Sep-2017 10:53:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Sep-2017 10:55:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[25-Sep-2017 14:58:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[25-Sep-2017 15:02:24 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[26-Sep-2017 03:52:29 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[26-Sep-2017 06:49:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[26-Sep-2017 06:49:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[26-Sep-2017 06:49:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[26-Sep-2017 06:49:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[16-Oct-2017 12:06:45 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 13:49:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 13:49:30 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 13:53:28 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 13:56:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 13:58:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 13:59:37 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 14:02:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 14:03:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 14:04:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 14:06:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[17-Oct-2017 14:11:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[19-Oct-2017 07:42:53 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[19-Oct-2017 13:55:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[19-Oct-2017 14:27:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50
+[25-Oct-2017 13:11:17 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 73
+[25-Oct-2017 13:13:54 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 73
+[31-Oct-2017 05:19:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 73

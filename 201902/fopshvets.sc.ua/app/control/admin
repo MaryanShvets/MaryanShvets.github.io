@@ -1,0 +1,31 @@
+admin 
+all
+
+sales
+invoice-all
+invoice-new
+
+marketing
+submits
+
+CFO
+invoice-all
+finance
+
+<?
+
+	$access_list = array(
+			'sales'=>array(
+					'invoice-all',
+					'invoice-new'
+				),
+			'CFO'=>array(
+					'invoice-all',
+					'finance'
+				),
+			'marketing'=>array(
+					'submits'
+				)
+		);
+
+?>

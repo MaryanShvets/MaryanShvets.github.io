@@ -1,0 +1,40 @@
+[31-Mar-2018 14:04:43 America/New_York] PHP Fatal error:  Call to undefined method MySQL::conect() in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 12
+[31-Mar-2018 14:04:52 America/New_York] PHP Fatal error:  Call to undefined method MySQL::conect() in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 12
+[31-Mar-2018 14:05:35 America/New_York] PHP Fatal error:  Call to undefined method MySQL::conect() in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 12
+[15-May-2018 07:24:15 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:24:15 America/New_York] PHP Fatal error:  Class 'API' not found in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 122
+[15-May-2018 07:24:41 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:25:42 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:26:07 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:26:26 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:26:50 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:28:07 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:28:28 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:29:27 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:29:36 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[15-May-2018 07:29:50 America/New_York] PHP Notice:  Undefined index: param in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 36
+[24-May-2018 07:15:18 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 07:15:35 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 07:16:29 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 07:30:48 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 07:34:39 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 07:35:17 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 07:35:18 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 07:35:21 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 09:00:52 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[24-May-2018 09:01:33 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Jun-2018 09:12:09 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 59
+[08-Jun-2018 09:12:12 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 59
+[08-Jun-2018 09:12:22 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 59
+[08-Jun-2018 09:12:39 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 59
+[08-Jun-2018 09:12:40 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/kirgkybv/public_html/polza.com/app/affilate/control/product_list.php on line 59
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98
+[08-Aug-2018 09:05:07 America/New_York] PHP Notice:  Undefined variable: type in /home/kirgkybv/public_html/polza.com/app/affilate/control/leads_list.php on line 98

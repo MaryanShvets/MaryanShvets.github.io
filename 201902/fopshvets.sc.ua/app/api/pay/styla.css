@@ -1,0 +1,553 @@
+.block_info {
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+#choose{
+     width: 640px;
+     margin: auto;
+     border-bottom: 1px solid rgb(232, 232, 232);
+     margin-bottom: -16px;
+     text-align: center;
+     box-sizing: border-box;
+     border-top-left-radius: 2px;
+     border-top-right-radius: 2px;
+     padding: 13px;
+     font-weight: 100;
+     font-size: 19px;
+     /* text-transform: uppercase; */
+     background: white;
+     color: grey;
+     font-size: 22px;
+}
+.pay {
+    background: rgb(249, 250, 252);
+    padding: 18px;
+    display: inline-block;
+    margin-bottom: 10px;
+    display: none;
+}
+#tabs ul li:hover{
+    opacity: 0.9;
+    /*background: rgba(76, 175, 80, 0.12);*/
+    transition: .5s;
+}
+span.info{
+    font-size: 16px;
+    color: #888;
+}
+.ui-state-default{
+  opacity: .5;
+}
+.ui-state-default.ui-tabs-active{
+  opacity: 1;
+}
+article {
+    position: relative;
+}
+.icon-pay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    right: 0;
+    text-align: left;
+    margin-top: 5px;
+    font-size: 14px;
+    border-bottom: 1px solid rgb(232, 232, 232);
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.icon-pay a {
+    border-bottom: 1px solid #fff;
+    padding: 7px 14px;
+    color: #7c7c7c;
+    display: inline-block;
+    background: #f5f5f5;
+    text-align: center;
+    margin-bottom: 0;
+    /*width: 154px;*/
+    box-sizing: border-box;
+    background: #f2f2f2;
+    background-image: -webkit-linear-gradient(top, #f2f2f2, #e8e8e8);
+    background-image: -moz-linear-gradient(top, #f2f2f2, #e8e8e8);
+    background-image: -ms-linear-gradient(top, #f2f2f2, #e8e8e8);
+    background-image: -o-linear-gradient(top, #f2f2f2, #e8e8e8);
+    background-image: linear-gradient(to bottom, #f2f2f2, #e8e8e8);
+    
+}
+
+/* one item */
+.icon-pay a:nth-child(1):nth-last-child(1) {
+  width: 100%;
+}
+
+/* two items */
+.icon-pay a:nth-child(1):nth-last-child(2),
+.icon-pay a:nth-child(2):nth-last-child(1) {
+      width: 49.6%;
+}
+
+/* three items */
+.icon-pay a:nth-child(1):nth-last-child(3),
+.icon-pay a:nth-child(2):nth-last-child(2),
+.icon-pay a:nth-child(3):nth-last-child(1) {
+    width: 32.9%;
+}
+
+/* four items */
+.icon-pay a:nth-child(1):nth-last-child(4),
+.icon-pay a:nth-child(2):nth-last-child(3),
+.icon-pay a:nth-child(3):nth-last-child(2),
+.icon-pay a:nth-child(4):nth-last-child(1) {
+  width: 24.5%;
+}
+.icon-pay a:hover {
+  /*padding-left: 20px;*/
+  transition: .5s;
+  background: #fff;
+}
+.icon-pay a.active {
+    background: white;
+    display: inline-block;
+    width: 150px;
+    box-shadow: none;
+    color: #7ab72b;
+    font-weight: bold;
+}
+.plat {
+    font-size: 13px;
+    margin-top: 20px;
+    font-weight: 400;
+    color: black;
+}
+p.title {
+    border: 1px solid #fff;
+    padding: 5px;
+    color: #fff;
+    font-weight: 100;
+}
+svg{
+  position: relative;
+  width: 30%;
+}
+* {
+  -webkit-box-sizing: border-box;
+  /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;
+  /* Firefox, other Gecko */
+  box-sizing: border-box;
+  /* Opera/IE 8+ */
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  font-family: Arial;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background: rgb(245, 245, 245);
+}
+div#tabs {
+    /* border-radius: 2px; */
+    /* border: 1px solid rgb(232, 232, 232); */
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    /* background: white; */
+    border-top: none;
+}
+#tabs {
+  margin: 1em auto;
+  width: 640px;
+}
+#tabs ul {
+  margin: 0;
+  padding: 0;
+  height: 130px;
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  -webkit-column-gap: 0;
+  -moz-column-gap: 0;
+  column-gap: 0;
+  border: 5px solid white;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-bottom: 0;
+}
+#tabs ul::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+#tabs ul li {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  text-align: center;
+  transition: .5s;
+  /* box-shadow: inset 0px 0px 10px rgba(162, 162, 162, 0.51); */
+  background: #e8e8e8;
+  background-image: -webkit-linear-gradient(top, #e8e8e8, #cccccc);
+  background-image: -moz-linear-gradient(top, #e8e8e8, #cccccc);
+  background-image: -ms-linear-gradient(top, #e8e8e8, #cccccc);
+  background-image: -o-linear-gradient(top, #e8e8e8, #cccccc);
+  background-image: linear-gradient(to bottom, #e8e8e8, #cccccc);
+  background: #f2f2f2;
+  background-image: -webkit-linear-gradient(top, #f2f2f2, #e8e8e8);
+  background-image: -moz-linear-gradient(top, #f2f2f2, #e8e8e8);
+  background-image: -ms-linear-gradient(top, #f2f2f2, #e8e8e8);
+  background-image: -o-linear-gradient(top, #f2f2f2, #e8e8e8);
+  background-image: linear-gradient(to bottom, #f2f2f2, #e8e8e8);
+}
+#tabs ul li:first-child {
+  -webkit-border-top-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  border-top-left-radius: 3px;
+}
+#tabs ul li:last-child {
+  -webkit-border-top-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  border-top-right-radius: 3px;
+  border-left: 1px solid #e5e5e2;
+}
+#tabs ul li a {
+  display: block;
+  padding: 10px;
+  cursor: pointer;
+  outline: 0;
+  border: none;
+  font-size: 0.85em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+#tabs ul li span {
+  display: block;
+  margin-bottom: 0.75em;
+}
+#tabs ul .ui-tabs-active {
+  background: #fff;
+  /* border-bottom: 1px solid rgb(232, 232, 232); */
+  box-shadow: none;
+}
+#tabs ul .ui-tabs-active .plat {
+    color: #7ab72b;
+    font-weight: bold;
+}
+#tabs ul .ui-tabs-active a {
+  /* background: #ffffff; */
+  font-weight: bold;
+}
+#tabs ul .ui-tabs-active span {
+  color: #609c09;
+}
+#tabs h3,
+#tabs h4 {
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+}
+#tabs h3 {
+  margin: 0.5em 0;
+  border-bottom: 1px solid rgba(126, 149, 180, 0.5);
+  padding-bottom: 0.05em;
+  font-size: 2.5em;
+  color: #f38500;
+  font-weight: 300;
+}
+#tabs h4 {
+  margin: 0.25em 0;
+  font-size: 1.35em;
+  color: #000;
+  font-weight: 700;
+}
+#tabs .tagline {
+  display: block;
+  margin-top: 1.25em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.2em;
+  color: #aa7786;
+  text-transform: lowercase;
+}
+
+.tabs-content {
+    background: #fff;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    /* border-top: 1px solid rgb(232, 232, 232); */
+}
+.tabs-content article {
+  padding: 1em;
+  padding-right: 170px;
+  padding-top: 65px;
+}
+.tabs-content article p {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 24px;
+}
+.tabs-content article .readmore {
+  display: block;
+  margin-top: 1.5em;
+  padding-top: 0.25em;
+  border-top: 1px solid rgba(126, 149, 180, 0.5);
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.2em;
+}
+.tabs-content article .readmore::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.tabs-content article .readmore a {
+  display: block;
+  margin: 1em 0;
+  float: right;
+  color: #aa7786;
+  text-decoration: none;
+}
+.tabs-content article .readmore a:hover {
+  color: #925c6c;
+}
+.tabs-content article .readmore span {
+  padding-left: 1em;
+  vertical-align: middle;
+}
+.tabs-content article img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+/* ------modile------ */
+@media (max-width: 640px) {
+#tabs {
+    margin: 1em auto;
+    width: initial;
+}
+h2, h3 {
+    width: inherit !important;
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+}
+div#choose {
+    width: inherit;
+}
+svg, img.icon.icons8-Запрос-денег {
+    width: 30px;
+    float: left;
+    height: 30px;
+}
+#tabs ul {
+  width: 100%;
+  display: inline-table;
+}
+#tabs ul li a {
+  display: inherit;
+  padding: 5px 20px;
+}
+.plat {
+    margin-top: 0px;
+    position: relative;
+    top: 5px;
+}
+input.button, a#ajax {
+    width: 100% !important;
+    margin-bottom: 30px;
+    padding: 30px 50px !important;
+}
+article#tabs-1, .tabs-content article {
+    padding-right: 0px;
+}
+a.title-electro {
+    font-size: 11px;
+}
+.icon-pay a:nth-child(1):nth-last-child(3), .icon-pay a:nth-child(2):nth-last-child(2), .icon-pay a:nth-child(3):nth-last-child(1) {
+        width: 32.5%;
+}
+/* two items */
+.icon-pay a:nth-child(1):nth-last-child(2),
+.icon-pay a:nth-child(2):nth-last-child(1) {
+      width: 49%;
+}
+a#binotel {
+    top: 100px !important;
+    padding-bottom: 20px;
+}
+}
+
+@media (max-width: 640px) {
+#bingc-passive div.bingc-passive-overlay {
+    width: 300px !important;
+    height: 250px !important;
+}
+#bingc-passive div.bingc-passive-overlay {
+    width: 300px !important;
+    position: fixed !important;
+/*    bottom: 0 !important;*/
+    left: 0 !important;
+    top: initial !important;
+    right: 0 !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-we-will-call-you {
+    padding: 0 !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form {
+    zoom: 1;
+    padding: 0 !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-phone-sample {
+    padding: 0 !important;
+    opacity: .4;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form span.bingc-sample-countdown-timer {
+    padding: 10px 0px !important;
+    float: left !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-statistics {
+    padding: 0 10px !important;
+    font-size: 10px !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-we-will-call-you div.bingc-we-will-call-you-alignment div.bingc-we-will-call-you-restriction {
+    text-align: center !important;
+    font-size: 15px !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form input.bingc-passive-get-phone-form-input {
+    width: 275px !important;
+    height: 38px !important;
+    padding: 13px 20px !important;
+    font: 300 20px/24px Open sans,Ubuntu,Arial !important;
+    margin: 0 12px !important;
+    color: #000 !important;
+    border: #fff 1px solid !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-phone-sample span {
+    font-size: 10px;
+    color: #706f79 !important;
+    padding: 0px 10px !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-input-border {
+    display: none !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form span.bingc-sample-countdown-timer {
+    padding: 10px 5px 0 18px !important;
+    float: left !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-we-will-call-you div.bingc-we-will-call-you-alignment {
+    height: 35px !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-we-will-call-you span.small-text {
+    font-size: 14px !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-we-will-call-you {
+/*    padding: 5px 10px !important;*/
+    font-size: 15px !important;
+/*    line-height: 15px !important;*/
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour span.bingc-passive-date-selection-selected-hour, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes span.bingc-passive-date-selection-selected-hour, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour span.bingc-passive-date-selection-selected-minutes, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes span.bingc-passive-date-selection-selected-minutes {
+    font-size: 20px !important;
+    color: #fff !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection {
+    zoom: 1;
+    padding: 0 !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-day {
+    float: left !important;
+    width: inherit !important;
+    padding: 0 0 0 3px;
+    margin: 0 0 0 10px;
+    position: relative;
+    text-align: center;
+    top: -15px;
+    cursor: pointer;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes {
+    float: left;
+    width: 101px;
+    padding: 0 5px 0 0;
+    margin: 0 2px 0 0;
+    position: relative;
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+    background: #809fcf !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour svg.bingc-passive-date-selection-arrows, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes svg.bingc-passive-date-selection-arrows {
+    position: absolute;
+    top: 7px;
+    right: 12px;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form a.bingc-passive-phone-form-button {
+    display: block !important;
+    width: 180px !important;
+    height: 54px !important;
+    position: relative !important;
+    margin: 0 auto !important;
+    color: #fff !important;
+    background: #809fcf !important;
+}
+#bingc-passive div.bingc-passive-overlay a.bingc-powered-by {
+    position: absolute;
+    bottom: 0;
+    display: none !important;
+    right: 0;
+    display: block;
+    width: 211px;
+    height: 32px;
+    padding: 3px 106px 14px 0;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAgCAYAAACM2F8WAAAAGXRF…R1AhqzAhqBDWCGjOCGkGNoMaMoEZQI6gR1JgRNO7sjwADAEhEsGN9RJSKAAAAAElFTkSuQmCC');
+    background-repeat: no-repeat;
+    background-position: 115px 0;
+    text-align: right;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour span.bingc-passive-date-selection-selected-hour, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes span.bingc-passive-date-selection-selected-hour, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour span.bingc-passive-date-selection-selected-minutes, #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes span.bingc-passive-date-selection-selected-minutes {
+    font: 600 41px/30px Open sans,Ubuntu,Arial !important;
+    color: #fff !important;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection {
+    zoom: 1;
+    padding: 0 !important;
+    height: 40px;
+    display: -webkit-box;
+}
+#bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-we-will-call-you span.small-text {
+    font: 300 19px/16px Open sans,Ubuntu,Arial !important;
+    color: #706f79 !important;
+}
+}
+
+.amazingslider-car-right-arrow-1 {
+    background: url("http://intensiv.yaroslav-samoylov.com/sliderengine/carouselarrows-32-32-3.png") 100% -40% no-repeat rgba(0, 0, 0, 0.54902) !important;
+    opacity: 0.5;
+    height: 78px !important;
+    margin-top: 0px !important;
+}
+.amazingslider-car-left-arrow-1 {
+    background: url("http://intensiv.yaroslav-samoylov.com/sliderengine/carouselarrows-32-32-3.png") 00% -40% no-repeat rgba(0, 0, 0, 0.54902) !important;
+    opacity: 0.5;
+    height: 78px !important;
+    margin-top: 0px !important;
+}
+.amazingslider-arrow-right-1 {
+    background: url("http://intensiv.yaroslav-samoylov.com/sliderengine/arrows-32-32-02.png") 100% 0% no-repeat !important;
+    display: block !important;
+    height: 253px !important;
+    top: 0 !important;
+    margin-top: 0 !important;
+    right: -30px !important;
+}
+.amazingslider-arrow-left-1 {
+    background: url("http://intensiv.yaroslav-samoylov.com/sliderengine/arrows-32-32-03.png") 28% 0% no-repeat !important;
+    display: block !important;
+    height: 253px !important;
+    top: 0 !important;
+    margin-top: 0 !important;
+    left: -30px !important;
+}
+}

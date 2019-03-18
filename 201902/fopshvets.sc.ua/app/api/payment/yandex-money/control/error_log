@@ -1,0 +1,152 @@
+[28-Feb-2017 03:55:04 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:55:22 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:55:25 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:55:35 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:55:37 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:55:39 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:55:48 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:56:26 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 12
+[28-Feb-2017 03:56:45 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 8
+[28-Feb-2017 03:56:47 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 8
+[28-Feb-2017 03:56:52 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 8
+[28-Feb-2017 03:57:55 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:57:58 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:58:02 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:58:05 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:58:15 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:58:19 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:58:21 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:58:34 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 03:59:34 America/New_York] PHP Notice:  Undefined variable: request in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/pay.php on line 17
+[28-Feb-2017 04:23:30 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:23:30 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:23:30 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:23:30 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:23:30 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:23:30 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:23:30 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:23:30 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:27:23 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:27:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:27:23 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:27:23 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:27:23 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:27:23 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:27:23 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:27:23 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:46 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:31:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:31:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:31:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:46 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:48 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:31:48 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:31:48 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:31:48 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:48 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:48 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:48 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:31:48 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:43 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:32:43 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:32:43 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:32:43 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:43 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:43 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:43 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:43 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:44 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:32:44 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:32:44 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:32:44 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:44 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:44 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:44 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:44 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:46 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:32:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:32:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:32:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:46 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:46 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:50 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:32:50 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:32:50 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 144
+[28-Feb-2017 04:32:50 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:50 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:50 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:50 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:32:50 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:33:15 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:33:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:33:15 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:33:15 America/New_York] PHP Notice:  Undefined variable: lead in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:33:15 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:33:15 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:33:15 America/New_York] PHP Notice:  Undefined variable: product in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 166
+[28-Feb-2017 04:33:35 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:33:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:33:59 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 27
+[28-Feb-2017 04:33:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:35:37 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[28-Feb-2017 04:35:37 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:42:02 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[28-Feb-2017 04:42:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:57:40 America/New_York] PHP Notice:  Undefined index: email in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/callback.php on line 43
+[28-Feb-2017 04:57:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:58:14 America/New_York] PHP Notice:  Undefined index: email in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/callback.php on line 43
+[28-Feb-2017 04:58:14 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 04:58:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[28-Feb-2017 10:06:06 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[28-Feb-2017 10:06:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:08:40 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[02-Mar-2017 10:08:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:09:20 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[02-Mar-2017 10:09:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:09:58 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[02-Mar-2017 10:09:58 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:10:23 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[02-Mar-2017 10:10:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:10:33 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[02-Mar-2017 10:10:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:13:48 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[02-Mar-2017 10:13:48 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[02-Mar-2017 10:14:05 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 19
+[02-Mar-2017 10:14:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[22-Mar-2017 08:40:55 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[22-Mar-2017 08:40:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[07-Apr-2017 09:04:59 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[07-Apr-2017 09:04:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[07-Apr-2017 09:16:02 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[07-Apr-2017 09:16:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[25-Apr-2017 10:51:02 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[25-Apr-2017 10:51:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[08-May-2017 04:18:25 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[08-May-2017 04:18:25 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-May-2017 17:40:56 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[18-May-2017 17:40:56 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[13-Jul-2017 03:54:29 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[13-Jul-2017 03:54:29 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[13-Jul-2017 03:55:08 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[13-Jul-2017 03:55:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[31-Jul-2017 04:09:17 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Aug-2017 08:35:06 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[01-Aug-2017 08:35:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Aug-2017 08:35:07 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[01-Aug-2017 08:35:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Aug-2017 08:35:09 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[01-Aug-2017 08:35:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[01-Aug-2017 08:35:09 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[01-Aug-2017 08:35:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[03-Aug-2017 13:11:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[04-Aug-2017 07:25:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[07-Aug-2017 14:15:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[23-Aug-2017 09:25:44 America/New_York] PHP Notice:  Undefined variable: pay_system in /home/kirgkybv/public_html/polza.com/app/api/payment/yandex-money/control/invoice.php on line 20
+[23-Aug-2017 09:25:44 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[06-Oct-2017 06:15:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 60
+[17-Oct-2017 09:47:50 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 50

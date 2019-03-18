@@ -1,0 +1,26 @@
+[13-Nov-2017 06:31:16 America/New_York] PHP Fatal error:  Class 'Pulse' not found in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 22
+[13-Nov-2017 06:31:47 America/New_York] PHP Fatal error:  Class 'Pulse' not found in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 22
+[13-Nov-2017 06:33:50 America/New_York] PHP Fatal error:  Class 'Pulse' not found in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 22
+[13-Nov-2017 06:34:04 America/New_York] PHP Fatal error:  Class 'Pulse' not found in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 22
+[13-Nov-2017 06:41:49 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:42:12 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:42:30 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:50:37 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:52:53 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:53:05 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:53:06 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:53:40 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 37
+[13-Nov-2017 06:53:41 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 37
+[13-Nov-2017 06:54:16 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:54:25 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:56:05 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:56:07 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:56:26 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:56:40 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:56:41 America/New_York] PHP Fatal error:  Class 'Slack' not found in /home/kirgkybv/public_html/polza.com/app/core/corezoid/test.php on line 11
+[13-Nov-2017 06:58:34 America/New_York] PHP Warning:  file_get_contents(https://...@levchenkovic&amp;text=Я помітив %0A спробу зареєструватись %0A з неіснуючої сторінки): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 31
+[13-Nov-2017 06:58:37 America/New_York] PHP Warning:  file_get_contents(https://...@levchenkovic&amp;text=Я помітив %0A спробу зареєструватись %0A з неіснуючої сторінки): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 31
+[13-Nov-2017 06:58:50 America/New_York] PHP Warning:  file_get_contents(https://...@levchenkovic&amp;text=Я помітив %0A спробу зареєструватись %0A з неіснуючої сторінки): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/kirgkybv/public_html/polza.com/app/core/lib/slack.php on line 31

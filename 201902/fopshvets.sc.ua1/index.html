@@ -1,0 +1,44 @@
+<html>
+	<head>
+		    <!--Bootstrap стили CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" 
+integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+	<script>
+	
+		function myFunction(){
+			var mainMenuCont = document.getElementById("mainmenu")
+			mainMenuCont.innerHTML = 
+				mainMenuCont.innerHTML + "<div class='col-md-2' >Головна </div>";
+			mainMenuCont.innerHTML = 
+				mainMenuCont.innerHTML + "<div class='col-md-2' >Про клас </div>";
+			mainMenuCont.innerHTML = 
+				mainMenuCont.innerHTML + "<div class='col-md-2' >Фотогалерея </div>";
+			console.log(mainMenuCont.getAttribute('class')	);
+		}
+			
+		// myFunction();	
+			window.addEventListener('load', myFunction, false ); 
+	</script>	
+
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="row contacts col-md-12">
+				</div>
+				<div class="row col-md-12 menu">
+					<div class="col-md-3">
+					</div>
+					<div id="mainmenu" class="col-md-9 mainmenu">
+					
+					
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		
+	</body>
+</html>

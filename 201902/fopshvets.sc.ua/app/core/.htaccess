@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteRule ^([^/\.]+)/([^/\.]+)$ $1/$2.php [L,QSA]
+
+Options -Indexes

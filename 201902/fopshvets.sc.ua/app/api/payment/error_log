@@ -1,0 +1,154 @@
+[18-Apr-2017 04:25:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 19
+[18-Apr-2017 04:30:18 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:19 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:20 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:26 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:27 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:28 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:32 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:33 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 04:30:35 America/New_York] PHP Fatal error:  Call to undefined function rount() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 29
+[18-Apr-2017 05:03:16 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 60
+[18-Apr-2017 05:03:16 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 61
+[18-Apr-2017 05:03:17 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 60
+[18-Apr-2017 05:03:17 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 61
+[18-Apr-2017 05:03:20 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 60
+[18-Apr-2017 05:03:20 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 61
+[18-Apr-2017 05:03:26 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 60
+[18-Apr-2017 05:03:26 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 61
+[18-Apr-2017 05:09:49 America/New_York] PHP Parse error:  syntax error, unexpected '$fin_data' (T_VARIABLE) in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 9
+[18-Apr-2017 05:09:50 America/New_York] PHP Parse error:  syntax error, unexpected '$fin_data' (T_VARIABLE) in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 9
+[18-Apr-2017 05:09:52 America/New_York] PHP Parse error:  syntax error, unexpected '$fin_data' (T_VARIABLE) in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 9
+[18-Apr-2017 05:11:32 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 10
+[18-Apr-2017 05:11:32 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 11
+[18-Apr-2017 05:11:32 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:11:32 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 15
+[18-Apr-2017 05:11:34 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 10
+[18-Apr-2017 05:11:34 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 11
+[18-Apr-2017 05:11:34 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:11:34 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 15
+[18-Apr-2017 05:12:03 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:12:03 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 15
+[18-Apr-2017 05:12:04 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:12:04 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 15
+[18-Apr-2017 05:12:14 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:12:14 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 15
+[18-Apr-2017 05:12:16 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:12:16 America/New_York] PHP Warning:  Illegal string offset 'key2' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 15
+[18-Apr-2017 05:14:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 17
+[18-Apr-2017 05:14:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 17
+[18-Apr-2017 05:15:07 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:15:09 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:15:44 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 11
+[18-Apr-2017 05:15:44 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 13
+[18-Apr-2017 05:15:45 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 11
+[18-Apr-2017 05:15:45 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 13
+[18-Apr-2017 05:16:28 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 13
+[18-Apr-2017 05:16:30 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 13
+[18-Apr-2017 05:16:31 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 13
+[18-Apr-2017 05:16:33 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 13
+[18-Apr-2017 05:17:10 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 13
+[18-Apr-2017 05:17:57 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 17
+[18-Apr-2017 05:17:57 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 18
+[18-Apr-2017 05:17:58 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 17
+[18-Apr-2017 05:17:58 America/New_York] PHP Notice:  Undefined variable: fin_data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 18
+[18-Apr-2017 05:18:21 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:18:21 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:18:24 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:18:24 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:18:50 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:18:50 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:18:52 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:18:52 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:18:53 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:18:53 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:18:56 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:18:56 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:19:58 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:19:58 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:20:14 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:20:14 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:20:16 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:20:16 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:20:37 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:20:37 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:20:57 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:20:57 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:20:58 America/New_York] PHP Notice:  Undefined variable: merchant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 20
+[18-Apr-2017 05:20:58 America/New_York] PHP Notice:  Undefined variable: merchant_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 21
+[18-Apr-2017 05:25:00 America/New_York] PHP Notice:  Undefined variable: data in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:25:00 America/New_York] PHP Warning:  json_last_error() expects exactly 0 parameters, 1 given in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:25:08 America/New_York] PHP Warning:  json_last_error() expects exactly 0 parameters, 1 given in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 14
+[18-Apr-2017 05:58:42 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 22
+[18-Apr-2017 05:58:43 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 22
+[18-Apr-2017 05:58:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 22
+[18-Apr-2017 05:58:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 22
+[18-Apr-2017 06:03:09 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 24
+[18-Apr-2017 06:03:11 America/New_York] PHP Warning:  Illegal string offset 'key1' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 24
+[18-Apr-2017 07:22:17 America/New_York] PHP Parse error:  syntax error, unexpected '$json' (T_VARIABLE), expecting '(' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 11
+[18-Apr-2017 07:22:19 America/New_York] PHP Parse error:  syntax error, unexpected '$json' (T_VARIABLE), expecting '(' in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 11
+[18-Apr-2017 07:32:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:32:13 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:32:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:32:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:32:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:32:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:32:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:33:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:33:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:37:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 07:37:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:26:34 America/New_York] PHP Fatal error:  Call to undefined method API::get_fin() in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 17
+[18-Apr-2017 08:26:37 America/New_York] PHP Notice:  Undefined index: system in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 100
+[18-Apr-2017 08:26:37 America/New_York] PHP Notice:  Undefined variable: api in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 106
+[18-Apr-2017 08:26:37 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 106
+[18-Apr-2017 08:27:14 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:14 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:14 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 106
+[18-Apr-2017 08:27:16 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:16 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 106
+[18-Apr-2017 08:27:32 America/New_York] PHP Fatal error:  Class 'API' not found in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 15
+[18-Apr-2017 08:27:33 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:33 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:34 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:34 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:34 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:47 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:47 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:54 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:54 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:54 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:56 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:56 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:56 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:27:58 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:58 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 104
+[18-Apr-2017 08:27:58 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 105
+[18-Apr-2017 08:28:27 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:28:27 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:28:30 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:28:30 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:28:41 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:28:41 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:11 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:29:11 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:13 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:29:13 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:14 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:29:14 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:16 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:29:16 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:19 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:29:19 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:37 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:29:37 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:38 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 27
+[18-Apr-2017 08:29:38 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 28
+[18-Apr-2017 08:29:43 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 25
+[18-Apr-2017 08:29:43 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 26
+[18-Apr-2017 08:29:47 America/New_York] PHP Notice:  Undefined variable: mercshant_id in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 25
+[18-Apr-2017 08:29:47 America/New_York] PHP Notice:  Undefined variable: merchants_pass in /home/kirgkybv/public_html/polza.com/app/api/payment/config-alpha.php on line 26

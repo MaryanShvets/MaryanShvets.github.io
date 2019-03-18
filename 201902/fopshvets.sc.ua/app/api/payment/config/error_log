@@ -1,0 +1,28 @@
+[18-Apr-2017 04:50:33 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 30
+[18-Apr-2017 04:50:34 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 30
+[18-Apr-2017 04:50:35 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 30
+[18-Apr-2017 04:50:37 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 30
+[18-Apr-2017 04:50:52 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 30
+[18-Apr-2017 04:51:05 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 32
+[18-Apr-2017 04:51:06 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 32
+[18-Apr-2017 04:51:11 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 32
+[18-Apr-2017 04:51:19 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 32
+[18-Apr-2017 04:51:20 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 32
+[18-Apr-2017 05:49:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:49:56 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:50:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:50:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:50:49 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 27
+[18-Apr-2017 05:50:49 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 29
+[18-Apr-2017 05:50:49 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:52:16 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 27
+[18-Apr-2017 05:52:16 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 29
+[18-Apr-2017 05:52:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:52:17 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 27
+[18-Apr-2017 05:52:17 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 29
+[18-Apr-2017 05:52:17 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:52:18 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 27
+[18-Apr-2017 05:52:18 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 29
+[18-Apr-2017 05:52:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48
+[18-Apr-2017 05:52:26 America/New_York] PHP Notice:  Undefined variable: sql in /home/kirgkybv/public_html/polza.com/app/api/payment/config/get_keys.php on line 29
+[18-Apr-2017 05:52:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 48

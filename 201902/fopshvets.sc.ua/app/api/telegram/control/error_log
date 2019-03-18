@@ -1,0 +1,8 @@
+[20-Feb-2017 07:08:15 America/New_York] PHP Warning:  file_get_contents(https://api.telegram.org/bot290789282:AAFGGv9AFqh4TVYh6I36zjHTcqG68UXNPfQ/sendmessage?chat_id=95557762&amp;text=🛠 amo_add_lead_32169611&amp;parse_mode=markdown): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/kirgkybv/public_html/polza.com/app/api/telegram/class.php on line 41
+[20-Feb-2017 07:12:43 America/New_York] PHP Warning:  file_get_contents(https://api.telegram.org/bot290789282:AAFGGv9AFqh4TVYh6I36zjHTcqG68UXNPfQ/sendmessage?chat_id=95557762&amp;text=🛠 amo_add_lead_57153895&amp;parse_mode=markdown): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/kirgkybv/public_html/polza.com/app/api/telegram/class.php on line 41
+[20-Feb-2017 07:15:59 America/New_York] PHP Warning:  file_get_contents(https://api.telegram.org/bot290789282:AAFGGv9AFqh4TVYh6I36zjHTcqG68UXNPfQ/sendmessage?chat_id=95557762&amp;text=🛠 amo_add_lead_32169687&amp;parse_mode=markdown): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/kirgkybv/public_html/polza.com/app/api/telegram/class.php on line 41
+[20-Feb-2017 07:17:06 America/New_York] PHP Warning:  file_get_contents(https://api.telegram.org/bot290789282:AAFGGv9AFqh4TVYh6I36zjHTcqG68UXNPfQ/sendmessage?chat_id=95557762&amp;text=🛠 amo_add_lead_32169697&amp;parse_mode=markdown): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/kirgkybv/public_html/polza.com/app/api/telegram/class.php on line 41

@@ -1,0 +1,694 @@
+
+
+2019-02-18 01:19:20 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms01&phone=0667627531&inneti3=inneti36992548&email=innetiad5%40gmail.com 
+Array
+(
+    [sms] => test_sms01
+    [phone] => 0667627531
+    [inneti3] => inneti36992548
+    [email] => innetiad5@gmail.com
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:20get 
+Array
+(
+    [sms] => test_sms01
+    [phone] => 0667627531
+    [inneti3] => inneti36992548
+    [email] => innetiad5@gmail.com
+)
+
+2019-02-18 01:19:20post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:20 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms02&phone=0667627531&inneti3=inneti3&first_name=n1&autophone=0936888668 
+Array
+(
+    [sms] => test_sms02
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [first_name] => n1
+    [autophone] => 0936888668
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:20get 
+Array
+(
+    [sms] => test_sms02
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [first_name] => n1
+    [autophone] => 0936888668
+)
+
+2019-02-18 01:19:20post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:21 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms03&phone=0667627531&inneti3=inneti3&autophone=0936888668&email=innetiad5%40gmail.com&first_name=n2 
+Array
+(
+    [sms] => test_sms03
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [email] => innetiad5@gmail.com
+    [first_name] => n2
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:21get 
+Array
+(
+    [sms] => test_sms03
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [email] => innetiad5@gmail.com
+    [first_name] => n2
+)
+
+2019-02-18 01:19:21post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:21 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms04&phone=0667627531&inneti3=inneti3&first_name=qqq 
+Array
+(
+    [sms] => test_sms04
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [first_name] => qqq
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:21get 
+Array
+(
+    [sms] => test_sms04
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [first_name] => qqq
+)
+
+2019-02-18 01:19:21post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:21 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:21get 
+Array
+(
+)
+
+2019-02-18 01:19:21post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:35 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:35get 
+Array
+(
+)
+
+2019-02-18 01:19:35post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:35 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms12&phone=0667627531&inneti3=inneti3&autophone=0936888668&email=innetiad5%40gmail.com 
+Array
+(
+    [sms] => test_sms12
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [email] => innetiad5@gmail.com
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:35get 
+Array
+(
+    [sms] => test_sms12
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [email] => innetiad5@gmail.com
+)
+
+2019-02-18 01:19:35post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms11&phone=0667627531&inneti3=inneti3&autophone=0936888668&email=innetiad5%40gmail.com&first_name=n3 
+Array
+(
+    [sms] => test_sms11
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [email] => innetiad5@gmail.com
+    [first_name] => n3
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36get 
+Array
+(
+    [sms] => test_sms11
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [email] => innetiad5@gmail.com
+    [first_name] => n3
+)
+
+2019-02-18 01:19:36post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms13&phone=0667627531&inneti3=inneti3&autophone=0936888668&first_name=%NAME% 
+Array
+(
+    [sms] => test_sms13
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [first_name] => %NAME%
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36get 
+Array
+(
+    [sms] => test_sms13
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [first_name] => %NAME%
+)
+
+2019-02-18 01:19:36post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms14&phone=0667627531&inneti3=inneti3&autophone=0936888668&first_name=qqq 
+Array
+(
+    [sms] => test_sms14
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [first_name] => qqq
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36get 
+Array
+(
+    [sms] => test_sms14
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [autophone] => 0936888668
+    [first_name] => qqq
+)
+
+2019-02-18 01:19:36post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36 ------------------------------------------------------ request http://www.fopshvets.sc.ua/app/core/events/funnel_sms1.php?sms=test_sms16&phone=0667627531&inneti3=inneti3&first_name=qqq 
+Array
+(
+    [sms] => test_sms16
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [first_name] => qqq
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)
+
+2019-02-18 01:19:36get 
+Array
+(
+    [sms] => test_sms16
+    [phone] => 0667627531
+    [inneti3] => inneti3
+    [first_name] => qqq
+)
+
+2019-02-18 01:19:36post 
+Array
+(
+    [contact] => Array
+        (
+            [id] => 48137
+            [email] => innetiad5@gmail.com
+            [first_name] => Serhii
+            [last_name] => Inneti
+            [phone] => 0936888668
+            [orgname] => 
+            [tags] => test_test1smsfop
+            [ip4] => 0.0.0.0
+            [fields] => Array
+                (
+                    [moneyplus1] => 
+                    [open_email_status] => ||Active||
+                    [test_field] => 
+                )
+
+        )
+
+    [seriesid] => 173
+)

@@ -1,0 +1,6 @@
+[25-Oct-2017 04:03:28 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/kirgkybv/public_html/polza.com/app/api/antitreningi/control/callback.php on line 8
+[25-Oct-2017 04:03:58 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/kirgkybv/public_html/polza.com/app/api/antitreningi/control/callback.php on line 8
+[25-Oct-2017 04:08:57 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/kirgkybv/public_html/polza.com/app/api/antitreningi/control/callback.php on line 8
+[25-Oct-2017 04:09:02 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/kirgkybv/public_html/polza.com/app/api/antitreningi/control/callback.php on line 8
+[25-Oct-2017 09:20:00 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/kirgkybv/public_html/polza.com/app/api/antitreningi/control/callback.php on line 13
+[25-Oct-2017 09:20:48 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/kirgkybv/public_html/polza.com/app/api/antitreningi/control/callback.php on line 13

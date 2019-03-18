@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteRule ^t/([^/\.]+)$ token.php?token=$1 [L,QSA]
+
+RewriteRule ^([^/\.]+)/([^/\.]+)$ index.php?program=$1&page=$2 [L,QSA]
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)$ index.php?program=$1&page=$2&param=$3 [L,QSA]
+

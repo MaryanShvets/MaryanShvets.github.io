@@ -1,0 +1,11 @@
+-- 
+-- Editor SQL for DB table products
+-- Created by http://editor.datatables.net/generator
+-- 
+
+-- CREATE TABLE IF NOT EXISTS `products` (
+-- 	`id` int(10) NOT NULL auto_increment,
+-- 	`amoname` varchar(255),
+-- 	`url` varchar(255),
+-- 	PRIMARY KEY( `id` )
+-- );

@@ -1,0 +1,231 @@
+[08-Dec-2018 04:54:18 America/New_York] PHP Strict Standards:  Non-static method Pay2MeApi::dealCreate() should not be called statically in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 19
+[08-Dec-2018 04:54:18 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/kirgkybv/public_html/polza.com/app/core/lib/pay2me.php on line 17
+[08-Dec-2018 04:54:38 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/kirgkybv/public_html/polza.com/app/core/lib/pay2me.php on line 17
+[08-Dec-2018 04:55:03 America/New_York] PHP Fatal error:  Call to undefined function Pay2MeApi() in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 19
+[08-Dec-2018 04:56:15 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[08-Dec-2018 05:17:15 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[08-Dec-2018 05:17:16 America/New_York] PHP Notice:  Array to string conversion in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 95
+[08-Dec-2018 05:17:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[08-Dec-2018 05:23:20 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[08-Dec-2018 05:23:20 America/New_York] PHP Notice:  Array to string conversion in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 95
+[08-Dec-2018 05:23:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[08-Dec-2018 05:26:52 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[08-Dec-2018 05:26:52 America/New_York] PHP Notice:  Array to string conversion in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 95
+[08-Dec-2018 05:26:52 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:06:40 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[10-Dec-2018 07:06:40 America/New_York] PHP Notice:  Array to string conversion in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 95
+[10-Dec-2018 07:06:41 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:08:58 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[10-Dec-2018 07:08:59 America/New_York] PHP Notice:  Array to string conversion in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 95
+[10-Dec-2018 07:08:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:16:46 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[10-Dec-2018 07:16:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:45:56 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[10-Dec-2018 07:45:56 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:46:00 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[10-Dec-2018 07:46:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:49:34 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[10-Dec-2018 07:49:34 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:51:25 America/New_York] PHP Notice:  Undefined index: order_return in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 66
+[10-Dec-2018 07:51:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:53:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:54:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:57:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:57:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 07:57:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[10-Dec-2018 08:05:02 America/New_York] PHP Notice:  Undefined index: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 12
+[10-Dec-2018 08:05:02 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 17
+[10-Dec-2018 08:05:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 04:22:24 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 04:24:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 04:24:10 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 17
+[11-Dec-2018 04:24:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 04:34:02 America/New_York] PHP Notice:  Undefined index: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 12
+[11-Dec-2018 04:34:02 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 17
+[11-Dec-2018 04:34:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 04:34:03 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 17
+[11-Dec-2018 04:34:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 05:16:02 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[11-Dec-2018 05:16:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 05:16:02 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[11-Dec-2018 05:16:02 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[11-Dec-2018 06:13:58 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[11-Dec-2018 06:14:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 06:16:03 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[11-Dec-2018 06:16:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 06:18:03 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[11-Dec-2018 06:18:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 06:18:04 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[11-Dec-2018 06:18:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[11-Dec-2018 06:18:04 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[11-Dec-2018 06:18:04 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[12-Dec-2018 07:40:53 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[12-Dec-2018 07:43:01 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[12-Dec-2018 07:43:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[12-Dec-2018 08:34:02 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[12-Dec-2018 08:34:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[12-Dec-2018 15:20:42 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[12-Dec-2018 15:20:53 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[12-Dec-2018 15:20:55 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[12-Dec-2018 15:21:09 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[12-Dec-2018 15:21:14 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[12-Dec-2018 15:22:02 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 218
+[12-Dec-2018 15:24:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[12-Dec-2018 15:24:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[12-Dec-2018 15:26:05 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 21
+[12-Dec-2018 15:26:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[12-Dec-2018 15:27:25 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[12-Dec-2018 15:27:27 America/New_York] PHP Fatal error:  Cannot redeclare class Slack in /home/kirgkybv/public_html/polza.com/app/api/slack/class.php on line 6
+[12-Dec-2018 15:31:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 08:29:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 08:32:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 08:33:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 08:35:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 08:37:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 10:11:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 10:11:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[13-Dec-2018 10:11:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[17-Dec-2018 14:29:36 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[17-Dec-2018 14:32:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[17-Dec-2018 15:16:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[17-Dec-2018 15:53:42 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[17-Dec-2018 15:56:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[17-Dec-2018 15:57:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 04:00:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 04:03:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 05:29:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 05:31:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 05:32:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 06:16:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 06:16:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 06:16:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[18-Dec-2018 06:16:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 02:44:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 02:47:43 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 02:47:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 02:48:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 02:48:14 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 02:49:15 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 19
+[19-Dec-2018 02:49:15 America/New_York] PHP Notice:  Undefined variable: contact_id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 19
+[19-Dec-2018 02:49:27 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 19
+[19-Dec-2018 02:49:27 America/New_York] PHP Notice:  Undefined variable: contact_id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 19
+[19-Dec-2018 02:49:32 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 19
+[19-Dec-2018 02:49:32 America/New_York] PHP Notice:  Undefined variable: contact_id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 19
+[19-Dec-2018 02:50:30 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 25
+[19-Dec-2018 02:50:30 America/New_York] PHP Notice:  Undefined variable: contact_id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 25
+[19-Dec-2018 02:50:51 America/New_York] PHP Notice:  Undefined variable: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 25
+[19-Dec-2018 02:50:51 America/New_York] PHP Notice:  Undefined variable: contact_id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/pay.php on line 25
+[19-Dec-2018 02:51:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 03:16:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 03:16:03 America/New_York] PHP Notice:  Undefined index: id in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 12
+[19-Dec-2018 04:08:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 04:20:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 04:21:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[19-Dec-2018 04:26:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[21-Dec-2018 07:28:30 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[21-Dec-2018 07:43:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[23-Dec-2018 15:12:58 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[23-Dec-2018 15:18:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[23-Dec-2018 15:19:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[24-Dec-2018 09:30:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[24-Dec-2018 09:32:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[25-Dec-2018 07:41:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[25-Dec-2018 07:41:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[25-Dec-2018 07:41:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[25-Dec-2018 08:11:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[25-Dec-2018 08:11:12 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[25-Dec-2018 08:11:12 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[25-Dec-2018 08:18:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[25-Dec-2018 08:18:02 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[25-Dec-2018 08:18:02 America/New_York] PHP Notice:  Undefined variable: pulse in /home/kirgkybv/public_html/polza.com/app/core/pay2me/callback.php on line 56
+[26-Dec-2018 08:04:43 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[26-Dec-2018 08:04:43 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[26-Dec-2018 13:17:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[26-Dec-2018 13:47:57 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[26-Dec-2018 13:48:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[27-Dec-2018 13:56:37 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[27-Dec-2018 13:56:38 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 00:29:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 00:32:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 00:32:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 02:34:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 02:36:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 02:36:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 03:18:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 03:18:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 03:18:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 03:18:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 03:18:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 03:18:11 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 04:45:21 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 04:47:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 04:47:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 04:48:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 04:48:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 05:15:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 05:15:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 06:31:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 06:33:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 06:33:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 06:34:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 06:36:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 06:36:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 08:26:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 08:27:28 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 08:30:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 08:30:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 10:05:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 10:09:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 10:09:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 15:31:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 15:34:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[28-Dec-2018 15:34:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[29-Dec-2018 13:21:21 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[29-Dec-2018 13:25:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[29-Dec-2018 13:28:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[29-Dec-2018 13:28:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 14:20:38 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 14:22:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 14:25:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 14:25:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 14:25:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 14:25:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 15:45:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 15:49:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 15:49:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 22:13:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 22:15:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[30-Dec-2018 22:15:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[02-Jan-2019 04:15:36 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[02-Jan-2019 04:19:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[02-Jan-2019 04:19:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[02-Jan-2019 11:20:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[02-Jan-2019 11:22:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[02-Jan-2019 11:22:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[05-Jan-2019 09:25:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[05-Jan-2019 09:26:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[05-Jan-2019 09:26:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[08-Jan-2019 09:06:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[08-Jan-2019 09:11:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[08-Jan-2019 09:11:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[09-Jan-2019 05:06:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[09-Jan-2019 05:09:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[09-Jan-2019 05:09:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[09-Jan-2019 12:12:13 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[09-Jan-2019 12:12:14 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[09-Jan-2019 12:15:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[09-Jan-2019 12:15:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[14-Jan-2019 01:09:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[14-Jan-2019 01:11:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[14-Jan-2019 01:11:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[16-Jan-2019 11:45:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[27-Jan-2019 05:01:14 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[27-Jan-2019 05:03:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[27-Jan-2019 05:03:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[27-Jan-2019 14:43:54 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[29-Jan-2019 00:41:22 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[29-Jan-2019 00:43:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[29-Jan-2019 00:43:17 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[07-Feb-2019 10:55:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[07-Feb-2019 10:56:54 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18
+[07-Feb-2019 10:56:57 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kirgkybv/public_html/polza.com/app/core/lib/mysql.php on line 18

@@ -1,0 +1,22 @@
+[31-Mar-2018 06:25:35 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 92
+[31-Mar-2018 06:25:35 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 98
+[31-Mar-2018 06:25:35 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 103
+[31-Mar-2018 06:25:35 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 103
+[31-Mar-2018 06:25:35 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 137
+[31-Mar-2018 06:25:35 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 142
+[31-Mar-2018 06:25:35 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 142
+[31-Mar-2018 06:34:33 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 92
+[31-Mar-2018 06:34:33 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 98
+[31-Mar-2018 06:34:33 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 103
+[31-Mar-2018 06:34:33 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 103
+[31-Mar-2018 06:34:33 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 137
+[31-Mar-2018 06:34:33 America/New_York] PHP Notice:  Undefined variable: program in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 142
+[31-Mar-2018 06:34:33 America/New_York] PHP Notice:  Undefined variable: page in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 142
+[15-May-2018 07:19:15 America/New_York] PHP Notice:  Undefined variable: token_info in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 32
+[15-May-2018 07:19:15 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 34
+[15-May-2018 07:19:15 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 34
+[15-May-2018 07:19:19 America/New_York] PHP Notice:  Undefined variable: token_info in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 32
+[15-May-2018 07:19:19 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 34
+[15-May-2018 07:19:19 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 34
+[15-May-2018 07:19:40 America/New_York] PHP Notice:  Undefined variable: token_info in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 37
+[15-May-2018 07:19:43 America/New_York] PHP Notice:  Undefined variable: token_info in /home/kirgkybv/public_html/polza.com/app/affilate/home/start.php on line 37

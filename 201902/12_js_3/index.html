@@ -1,0 +1,118 @@
+<html>
+	<head>
+		<script>
+	
+			function myFunction(){
+				var mainMenuCont = document.getElementById("mainmenu2")
+				mainMenuCont.innerHTML = 
+					mainMenuCont.innerHTML + "<div class='col-md-2' >Головна </div>";
+				mainMenuCont.innerHTML = 
+					mainMenuCont.innerHTML + "<div class='col-md-2' >Про клас </div>";
+				mainMenuCont.innerHTML = 
+					mainMenuCont.innerHTML + "<div class='col-md-2' >Фотогалерея </div>";
+				console.log(mainMenuCont.getAttribute('class')	);
+			}
+			
+			function myFunction2(){
+				
+				var menu = {
+					item1 : {name:"Головна", link:"index.html", target:"", color:"green"},
+					item2 : {name:"Про клас", link:"pro_klas.html", target:"_blank", color:"green"},
+					item3 : {name:"Фотогалерея", link:"foto.html", target:"_blank", color:"green"},
+					item4 : {name:"Контакти", link:"kontakty.html", target:"", color:"green"},
+					item5 : {name:"Контакти", link:"kontakty.html", target:"", color:"green"},
+					item6 : {name:"Контакти", link:"kontakty.html", target:"", color:"red"},
+					item7 : {name:"Контакти", link:"kontakty.html", target:"", color:"green"},
+					item8 : {name:"Контакти", link:"kontakty.html", target:"", color:"green"},
+					item9 : {name:"Контакти", link:"kontakty.html", target:"", color:"green"},
+					item10 : {name:"Ко", link:"ko.html", target:"", color:"yellow"},
+					
+				};
+				
+				/* "<div class='col-md-2' > 
+					<a href='foto.html' target='_blank'>Фотогалерея </a>
+				</div>"
+				*/
+				var html ='';
+				html = html + "<div class='col-md-2'>"+
+					"<a href='"+menu.item1.link+"' target='"+
+							menu.item1.target+"'>"+menu.item1.name+"</div>\r\n";
+							
+				html = html + "<div class='col-md-2'>"+
+					"<a href='"+menu.item2.link+"' target='"+
+							menu.item2.target+"'>"+menu.item2.name+"</div>\r\n";
+							
+				html = html + "<div class='col-md-2'>"+
+					"<a href='"+menu.item3.link+"' target='"+
+							menu.item3.target+"'>"+menu.item3.name+"</div>\r\n";
+							
+				html = html + "<div class='col-md-2'>"+
+					"<a href='"+menu.item4.link+"' target='"+
+							menu.item4.target+"'>"+menu.item4.name+"</div>\r\n";
+							
+							
+				var html2='';
+				for (var i = 1; i <= 10; i++) {
+					html2 = html2 + "<div class='col-md-2'>"+
+						"<a "+"style='background:"+menu["item"+i].color + "' "+
+						"href='"+menu["item"+i].link+"' target='"+
+							menu["item"+i].target+"'>"+menu["item"+i].name+"</a></div>\r\n";
+	
+				}
+				var mainMenuCont = document.getElementById("mainmenu");
+				mainMenuCont.innerHTML = html2;
+			}
+			function mf3 (){
+				setTimeout(function(){ myFunction2(); }, 3000);
+				setTimeout(function(){ myFunction(); }, 5000);
+			}
+				
+				
+			window.addEventListener('load', mf3, false ); 
+		</script>	
+
+	</head>
+	<body>
+	
+	
+	
+		<div id="mainmenu" class="col-md-9 mainmenu">
+					sdfsdfsdfsd
+					fsd
+					f
+					sd
+					fsd
+					f
+					sd
+					fsd
+					f
+					sdf
+					sd
+					fsd
+					f
+					sdf
+					sd
+					fsd
+					fsd
+					f
+					sdf
+					s
+					dfsdf
+					sdf
+					sdf
+					df
+					s
+					sdf
+					sdf
+					
+					
+					</div>
+					<br>
+					<br>
+					<br>
+					<br>
+				<div id="mainmenu2" class="col-md-9 mainmenu">
+				gdfdfgdfgdfgdfgdfgdfgdfg	
+					</div>
+	</body>
+</html>
