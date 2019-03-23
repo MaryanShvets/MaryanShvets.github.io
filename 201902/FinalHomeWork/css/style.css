@@ -35,7 +35,8 @@ h3 {
   margin: 0; 
 }
 
-@keyframe {}header {
+/*@keyframe {}*/
+header {
   width: 100%;
   display: block;
   position: fixed;
@@ -324,6 +325,13 @@ a.head_links:hover {
   margin-right: 25px;
   -webkit-transition: .3s;
   transition: .3s; 
+}
+.icon_item>img{
+  height: 76px;
+  width: 76px;
+}
+.icon_item>img:hover{
+  opacity: 0.6;
 }
 
 .service_section h2 {

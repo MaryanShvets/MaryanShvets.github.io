@@ -28,21 +28,22 @@ $(window).on('load', function() {
 $(document).ready(function(){
 	"use strict";
 	/* 2. SinglePageNav */
-	var navInneer = $(".head_list");
+/*	var navInneer = $(".head_list");
     navInneer.singlePageNav({
-        updateHash: false,
+		updateHash: false,
         filter: ":not(.external)",
         offset: 50,
         speed: 1000,
         currentClass: "active",
-        easing: "swing"
-    });
+		easing: "swing"
+
+    }); */
 	/* END 2. SinglePageNav */
 	/* 3. Gallery Lightbox */
-    $(".gallery a").simpleLightbox(); 
+   /* $(".gallery a").simpleLightbox();  */
     /* 3. END Gallery Lightbox */  
 	/* 4. Main Slider */ 
-	$('.main_slider').slick({
+/*	$('.main_slider').slick({
 		dots: false,
 		infinite: true,
 		speed: 1000,
@@ -50,7 +51,7 @@ $(document).ready(function(){
 		fade: true,
 		autoplay: true,
 		autoplaySpeed: 3000
-	});
+	}); */
 	/* 4. END Main Slider */ 
 	/* 5. END Animte Icons */ 
 	function animteIcons(elem) {
@@ -96,7 +97,7 @@ $(document).ready(function(){
 	});
 	/* 7. END Gallery Sorting */ 
 	/* 8. Reviews Slider */ 
-	$('.reviews_slider').slick({
+/*	$('.reviews_slider').slick({
 		dots: false,
 		infinite: true,
 		speed: 1000,
@@ -112,7 +113,7 @@ $(document).ready(function(){
       }
     }
   	]
-	});
+	});  */
 	/* 8. END Reviews Slider */ 
 	/* 9. Focus Feedback */ 
 	var focusElem = function(element){
