@@ -1,0 +1,87 @@
+<html>
+	<head>
+		<style>
+			 .s, .s img{
+				left:10px;
+				top: 10px;
+				width:150px;
+				height:150px;
+				margin: 10px;
+			}
+			.s{
+				float: left;
+				border:1px solid #888;
+			}
+			.container {
+				float:left;
+				width: 400px;
+			}
+		</style>
+	</head>
+<body>
+	<div>
+		<div class ="container">
+			<div id ="b1" class="s s1">
+				<img id="s1" src="flex.png">
+			</div>	
+			<div  id ="b2"  class="s s2">
+				<img id="s2" src="35.jpg">
+			</div>
+		</div>
+		
+		<div class ="container">
+			<div onclick="myfunction('s1');">
+				knopka1
+			</div>
+			<div onclick="myfunction('s2');">
+				knopka2
+			</div>
+		</div>
+	</div>
+	<div>
+		<div class ="container">
+			<div  id ="b3"  class="s s1">
+				<img  src="flex.png">
+			</div>	
+			<div  id ="b4" class="s s2">
+				<img  src="35.jpg">
+			</div>
+		</div>
+		
+		<div class ="container">
+			<div onclick="myfunction('s1');">
+				knopka1
+			</div>
+			<div onclick="myfunction('s2');">
+				knopka2
+			</div>
+			<div onclick="m2();">
+				knopka3
+			</div>
+		</div>
+	</div>
+	
+	<script>
+		function myfunction(a){
+			var x1 = document.getElementById("s1"); 
+			var x2 = document.getElementById("s2"); 
+			var x = document.getElementById(a); 
+			x1.style.width =150;
+			x2.style.width =150;
+			x.style.width =180;
+		}
+		function m2(){ 
+			alert('d');
+			var i;
+			var x; 
+			for (i = 1; i < 5; i++) { 
+				x = document.getElementById("b"+i);
+				console.log(x.style.width);
+				x.style.width = 280;
+			}
+		}
+		setTimeout(m2(), 7000);
+	</script>
+	
+</body>
+</html>

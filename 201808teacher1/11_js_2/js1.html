@@ -1,0 +1,44 @@
+<html>
+<head>
+<script type="text/javascript">   
+
+function myClick(ii){
+
+	console.log(1 +'__'+i);
+
+	var x = document.getElementById("title1");   // Get the element with id="title1"
+	x.style.color = "red";                     // Change the color of the element
+	console.log(2);
+	var y = document.getElementById("title2");   // Get the element with id="title1"
+	y.innerHTML = y.innerHTML + '<div  >О нас2</div>';                     // Change the color of the element
+	console.log(3);
+
+	if (i>3) {
+		console.log(111);
+		y.innerHTML = '<div  >О нас2</div>';                     
+		i= 1;
+	}
+
+	i= i+1;
+
+}
+
+//setTimeout(function(){ alert("Hello"); }, 3000);
+</script>
+
+</head>
+<body>
+<h1 class="title-primary" onclick="myClick();">О нас</h1>
+
+
+<h1 id="title1" onclick="alert(2222222);" >О нас</h1>
+<div id="title2" ></div>
+
+
+<script>
+var i=0;
+setInterval(function(){ myClick(i); }, 1000);
+//setTimeout(function(){ alert("Hello3"); }, 7000);
+</script>
+</body>
+</html>

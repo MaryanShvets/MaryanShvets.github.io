@@ -1,0 +1,90 @@
+<style>
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@media (min-width: 500px) {
+  .container-1 {
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+  }
+}
+
+.container-2 {
+  display: flex;
+}
+
+.container-2 {
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.container-1 div, .container-2 div {
+  padding: 10px;
+  border: 1px solid silver;
+}
+
+.box-1 {
+  flex: 2;
+  order: 2;
+}
+
+.box-2 {
+  flex: 2;
+  order: 1;
+}
+
+.box-3 {
+  flex: 1;
+  order: 3;
+}
+
+.box {
+  flex-basis: 20%;
+}
+
+</style>
+
+<div class="container-1">
+  <div class="box-1">
+    <h3>Box 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+  <div class="box-2">
+    <h3>Box 2</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+  <div class="box-3">
+    <h3>Box 3</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+</div>
+
+<div class="container-2">
+  <div class="box">
+    <h3>Box 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+  <div class="box">
+    <h3>Box 2</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+  <div class="box">
+    <h3>Box 3</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+  <div class="box">
+    <h3>Box 4</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+  <div class="box">
+    <h3>Box 5</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+  <div class="box">
+    <h3>Box 6</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+  </div>
+</div>
