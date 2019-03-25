@@ -1,0 +1,53 @@
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js">
+ </script>
+ <script>
+function myfunctuion()
+{
+console.log($('form1').serialize());
+console.log($('.alldataclass').val($('form1').serialize()));
+console.log($('#alldataid').val($('form1').serialize()));
+console.log($('input[name=alldata]').val($('form1').serialize()));
+
+}
+ </script>
+   
+
+   
+   
+   
+<style>div:hover {background:#aaa;}</style>
+
+<form action="http://ovl.bz/1.php" method="get" id="form1" >
+<div>
+  Прізвище :<br>
+  <input type="text" name="nifiga_neFirst_firstname" title="vvedit prizvysche" value="Mickey"><br>
+</div>
+
+<div>
+  Ім"я:<br>
+  <input type="text" name="lastname" value="Mouse1"><br><br>
+</div>
+  <input type="checkbox" name="uchen" value="uchen" placeholder="mos2">uchen<br><br>
+  <input type="checkbox" name="vchytel" value="vchytel" placeholder="mos2">vchytel<br><br>
+  <input type="radio" name="stat" value="hlopec" placeholder="mos2">hlopec<br><br>
+  <input type="radio" name="stat" value="divchyna" placeholder="mos2">divchyna<br><br>
+  <input type="text" name="lastname2" ><br><br>
+  <input type="text" name="lastname3" value="Mouse4"><br><br>
+  <input type="text" name="lastname4" value="" size='100'><br><br>
+  <input type="text" name="lastname5" value="Mouse6"><br><br>
+  <input type="hidden" class="alldataclass" id="alldataid" name="alldata" ><br><br>
+  
+  <textarea type="text" name="lastname5"  rows="10" cols="25" value="Mouse6"></textarea><br><br>
+
+  tel:<br>
+  <input type='tel' 
+		pattern='[\+]\d{2}[\(]\d{3}[\)]\d{3}[\-]\d{2}[\-]\d{2}' 
+		title='Phone Number (Format: +99(999)999-99-99)' 
+		name ="telefon"
+		placeholder="+38(000)123-45-67"
+  >
+   <input type="email" placeholder="foo@this.com, bar@that.com"
+           size="35" multiple
+           title="Zero or more addresses, separated with ','"    name ="mail"/>
+  <input type="submit" onclick="myfunctuion();" value="Submit">
+</form>
