@@ -1,4 +1,0 @@
-[26-Dec-2018 06:36:08 America/New_York] PHP Warning:  Missing argument 3 for API::send_sms(), called in /home/kirgkybv/public_html/polza.com/app/api/events/control/morning_sms.php on line 128 and defined in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 79
-[26-Dec-2018 06:36:08 America/New_York] PHP Notice:  Undefined variable: p in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 83
-[26-Dec-2018 06:42:40 America/New_York] PHP Warning:  Missing argument 3 for API::send_sms(), called in /home/kirgkybv/public_html/polza.com/app/api/events/control/morning_sms.php on line 17 and defined in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 79
-[26-Dec-2018 06:42:40 America/New_York] PHP Notice:  Undefined variable: p in /home/kirgkybv/public_html/polza.com/app/api/class.php on line 83

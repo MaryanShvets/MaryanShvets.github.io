@@ -1,5 +1,0 @@
-<?
-
-	// echo $_SERVER['REFFERER'];
-
-?>

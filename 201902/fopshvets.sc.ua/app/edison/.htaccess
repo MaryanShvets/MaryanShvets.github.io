@@ -1,4 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^([^/\.]+)/([^/\.]+)$ index.php?program=$1&page=$2 [L,QSA]
-RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)$ index.php?program=$1&page=$2&param=$3 [L,QSA]

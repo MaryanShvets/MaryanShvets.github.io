@@ -1,0 +1,81 @@
+<!document html>
+<html>
+<head>
+	<link href="css/style.css" rel="stylesheet" media="all">
+</head>
+<body>
+
+
+	<div  class="parol">
+		<form>
+			пароль <input class='pass' type='text' value=''><br>
+			<input type='submit' value='увійти' onclick="setParol();">
+			
+		</form>
+	</div>
+
+	
+	<div  class="shafa">
+		перший блок шафа
+	
+	</div>
+	
+	
+
+
+	
+	<div  class="shafa">
+	другий блок шаФа
+			<div class="hatka">
+				<h3> zaporozec</h3>
+				<p>
+					<div class="photo">
+						<img class="logo" src="img/zp.jpg">
+						<div class="smal-line">
+							<img class="logo_2" src="img/35.jpg">
+							<img class="logo_2" src="img/35.jpg">
+							<img class="logo_2" src="img/35.jpg">
+						</div>
+					</div>
+					
+					<b>ЗАЗ-966 «Запорожець»</b> (у народі — <i> «вухань», «вухатий», «чебурашка» </i>) — радянський легковий автомобіль особливо малого класу. Випускався на автомобільному заводі в місті Запоріжжі з 1966 — 12 жовтня з конвеєра заводу «Комунар» зійшли перші моделі «ЗАЗ-966» — по 1974 рік з модифікаціями, причому перший рік випускалася лише «перехідна» модифікація 966В із застарілим 28-сильним двигуном — виробництво 1,2-літрового 40-сильного мотора МеМЗ-966 було готове лише на наступний рік.
+				</p>
+			</div>
+	</div> <!-- shafka close-->
+	
+	
+	<script>
+	/*
+	localStorage.setItem("Ключ", "Значение")
+// Получение значения
+localStorage.getItem("Ключ")
+// Удаление значения
+localStorage.removeItem("Ключ")
+// Очистка всего хранилища
+localStorage.clear()
+	*/
+		function setParol()
+		{
+			var p = document.getElementsByClassName("pass");
+			localStorage.setItem("пароль", p[0].value);
+			
+		}
+		
+		console.log(localStorage.getItem("пароль"));
+	
+		if (localStorage.getItem("пароль")=='12345'){
+			var x = document.getElementsByClassName("shafa");
+			x[0].style.display ='block';
+			x[1].style.display ='block';
+			localStorage.removeItem("пароль");
+	//		localStorage.clear();
+		}
+		else{
+			var x = document.getElementsByClassName("parol");
+			x[0].style.display ='block';
+		}
+
+	</script>
+	
+</body>
+</html>
